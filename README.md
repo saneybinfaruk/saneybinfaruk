@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Saney Bin Faruk</h1>
+<h1 align="center">Assalamo Alaikom! 👋, I'm Saney Bin Faruk</h1>
 <h3 align="center">A passionate Full Stack Javascript Developer From Bangladesh</h3>
 
 - 👨‍💻 All of my projects are available at [https://saney-bin-faruk.vercel.app/](https://saney-bin-faruk.vercel.app/)
